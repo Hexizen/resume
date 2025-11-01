@@ -1,0 +1,6 @@
+django
+sentence-transformers
+PyMuPDF
+pytesseract
+Pillow
+openai
